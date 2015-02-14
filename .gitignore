@@ -1,0 +1,6 @@
+*.exe
+*.png
+*.o
+/build/
+/dist/
+/nbproject/
